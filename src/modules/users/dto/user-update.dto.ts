@@ -6,4 +6,7 @@ export class UsersUpdateDto {
 
   @IsEmail()
   email: string;
+
+  mobile?: string;
+  address?: string;
 }

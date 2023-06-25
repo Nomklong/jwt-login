@@ -57,6 +57,8 @@ export class AuthService {
         email: params.email,
         name: params.name,
         password: await encryptPassword(params.password),
+        mobile: params?.mobile,
+        address: params?.address,
       });
 
       return this.response(userResult);
@@ -78,6 +80,8 @@ export class AuthService {
       name: user.name,
       email: user.email,
       avatar: user.avatar,
+      mobile: user.mobile,
+      address: user.address,
       roles: user.roles,
       created_at: user.created_at,
       updated_at: user.updated_at,

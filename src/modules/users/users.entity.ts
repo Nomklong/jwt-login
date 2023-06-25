@@ -23,6 +23,12 @@ export class Users {
   @Column({ type: 'longtext', nullable: true })
   password: string;
 
+  @Column({ type: 'varchar', nullable: true })
+  mobile: string;
+
+  @Column({ type: 'longtext', nullable: true })
+  address: string;
+
   @Column({ type: 'varchar', length: 255, nullable: true })
   avatar: string;
 

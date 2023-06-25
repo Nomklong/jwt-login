@@ -11,4 +11,7 @@ export class RegisterDto {
 
   @IsNotEmpty()
   name: string;
+
+  mobile?: string;
+  address?: string;
 }

@@ -71,6 +71,8 @@ export class UsersService {
         ...userResult,
         name: parameter.name,
         email: parameter.email,
+        mobile: parameter?.mobile,
+        address: parameter?.address,
         avatar: url
       };
     } catch (error) {

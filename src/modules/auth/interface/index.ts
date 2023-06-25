@@ -5,6 +5,8 @@ export interface RegisterParams {
   name: string;
   roles?: Role[];
   password: string;
+  mobile?: string;
+  address?: string;
 }
 
 export interface JwtPayload {

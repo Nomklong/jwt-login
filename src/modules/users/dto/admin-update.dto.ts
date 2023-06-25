@@ -9,5 +9,7 @@ export class AdminUpdateDto {
   @IsNotEmpty()
   name: string;
 
-  roles: Role[]
+  roles: Role[];
+  mobile?: string;
+  address?: string;
 }
