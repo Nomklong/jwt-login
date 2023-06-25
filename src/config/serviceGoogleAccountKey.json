@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "planar-oasis-331515",
+  "private_key_id": "c7544b4f5c0cd2c921b72c87315e0cea7b4ff9d2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCNyUK8u6kar0hD\nyp0HBBHlIs5KFGJTYowluUhh4FH04ZA/n3/eyVQeAF/jQAmPKUUCY63iRlTxSdBE\ntSpfUMlWPO1z839Nl3lT5ynmHZSBdLauJGnSA/fQex7xItKDlalUWLu1QbaE1NtP\nqK8KeikDTQ4a6H1oS7i/mToHffmbwBy2eiNmjFHro5zxZcILcMDZc2eqLXvkKcDJ\ngaSwS2po3ifUJU5sPaEotPsXXK8URzgQXm+v2OPhe32Tn/RxmFhunTWV0zf4w8Ut\n9grPdhs14Te8f69Za8VN/KqT4XRIOql0kIcsBAbiv3C5Wvual0EGuTRQR8pvfxbD\n0aQUgzNjAgMBAAECggEAA+g97JGHUXLvHN8igKT+EUBqSuRQ6VdX4Vo/wmK6H3Nv\n1DEDBxKpPMJp4gtLuCQ9AJnamtexU4zjLmGHr2S8h6HaMU3OfkbkUwmVv/+krgSX\nXCkouV7en2IlMiPxhSrEpcxkL9SFwRdUi9dsK2++XZbsApXRjuQ3TSBd1wMDs+UG\n4j4wdXMQg7ATgU9x/VzRDMMmC3PMJ3fSfffbYwwfj0t/tObKgppifthN5918lLdj\ng1wWZekTNejS3oEsc4B9wKMGY2/zMcumRSH1H5oIBFmTxZjaS0hYvL06dNOVEOg/\nb8OTV9gJ1ROsWWUj/91SsT72s17b+VC31Tb82itGAQKBgQDICSTZlP6mpXud7r0F\nN0uyFWNK6prqJhuEl+p07JUn90FjGe/76rPao1s0mjOwzTwtE55PUtoo7e1t/Vye\nxu9tNPfdAFUdj0PeNfiHMpn2O7YW7C0cBOvAhbNxnq5q7+bieeo+u1o7nDPvuqqg\nKpDHY+i3iEydHnFuGnZu9F5D4wKBgQC1dDKaGaE8UbIsvaJQ/AD+qoUVSssKngYE\n8Oc5jwzsoD1e5PI3YD3s5wtsT+Ln2i8DyzHYEjnSoDODoin3u4lFyPyEvo1SlMFh\nnPRn5Gvuxlh4iDmkmreU7f8PRo7n0pzfEyunfqR0FUk/ElKazIrKWkmMnBnjTGtV\nmxCjPi1qgQKBgQCIRWJrL4tDL5zE/Gycbw0MJnHcCXK7bHZ2n59DRCBgd5p9zp+k\nOEGKApsRfLMWENqbwq+oTkL8ewmyUlWUfOWCugDY928EkiKj8JR8VcZ47jif6QjZ\n+6g3IV4bWwRrKT9arb8cOTnBPipLeBjgv96dVrykux+mMaUIYtKnx6WoDQKBgH9X\nib+d5wq25s0BVK1y/Zu7veQAdlgAKIdFLXC2lMJnfkpfcCEuuKbOSrT7p2lBNKd7\n7YIO4GeRqDVkFAHYqfDAqX7bX8CpxsEjbl6O7rRGnIYSTCnZrqalE8/7m4TTyOXA\nxW0psm4JFjteN3yNuYVjMaStVHmxAs60IUv+8c6BAoGBAJS+8akWMexMXA5GBrgF\nAGcP06x+xyaPhGIKHMom17r3U1DQqdb3BOf/3jBPx0CsgbH+01E8WPQTFW/YviJ7\n4l+6dw97awjT/3Oxss06d7ScpIsOdgbXJreIoYJU0Di5EzH00RUsNHkCgHYfFcY/\nyfDPiXNQFkmv9UDLYAMWSoJ2\n-----END PRIVATE KEY-----\n",
+  "client_email": "shop-nest@planar-oasis-331515.iam.gserviceaccount.com",
+  "client_id": "109104935760701124738",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/shop-nest%40planar-oasis-331515.iam.gserviceaccount.com"
+}
